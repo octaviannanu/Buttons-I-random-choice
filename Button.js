@@ -23,6 +23,3 @@ function winner3() {
     alert('Ouch! Stop poking me! Bad choice!')
   }
 }
-/*const choice = [1,2,3];
-const result = getRandomDifferent(choice)
-*/
